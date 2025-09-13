@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Hi, I’m Chad! 👋
+Hello, my name is Chad Allen Davis! 👋
 
-This is my About page.
+I am currently a graduate student at the University of Virginia, pursuing a Master's in Statistics and my PhD in Quantitative Psychology.
