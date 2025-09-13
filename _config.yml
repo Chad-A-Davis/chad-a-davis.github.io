@@ -4,6 +4,11 @@ description: My personal site on GitHub Pages
 theme: minima
 
 header_pages:
+  - index.md
   - about.md
   - contact.md
   - projects.md
+
+sass:
+  sass_dir: _sass
+  style: compressed
