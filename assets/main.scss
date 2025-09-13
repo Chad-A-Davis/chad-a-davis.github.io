@@ -1,0 +1,14 @@
+---
+# keep this front matter so Jekyll processes the file
+---
+
+@import "minima";
+
+/* Your overrides */
+.site-header {
+  background-color: #159957;
+  background-image: linear-gradient(120deg, #155799, #159957);
+}
+.site-title, .site-nav a {
+  color: white !important;
+}
