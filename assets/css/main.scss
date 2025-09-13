@@ -1,16 +1,15 @@
 ---
-# Only needed at the top so Jekyll processes this file
+# Jekyll needs this so it processes the file
 ---
 
-@import "minima";  /* import Minima’s default styles */
+@import "minima";
 
-/* Override header background to Cayman’s green */
+/* Custom overrides */
 .site-header {
-  background-color: #159957; /* Cayman green */
-  background-image: linear-gradient(120deg, #155799, #159957); /* Cayman gradient */
+  background-color: #159957;
+  background-image: linear-gradient(120deg, #155799, #159957);
 }
 
-/* Optional: make links white for contrast */
 .site-title, .site-nav a {
   color: white !important;
 }
