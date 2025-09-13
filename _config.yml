@@ -1,7 +1,7 @@
 title: Chad A. Davis
 description: My personal site on GitHub Pages
 
-theme: jekyll-theme-cayman
+theme: minima
 
 header_pages:
   - about.md
