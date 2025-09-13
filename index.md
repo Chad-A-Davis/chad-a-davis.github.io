@@ -2,11 +2,8 @@
 layout: home
 title: Home
 ---
+# Home
 
-# Welcome!
+## Welcome!
 
-This is my first GitHub Pages website 🚀
-
-- [About Me](/about/)
-- [Projects](/projects/)
-- [Contact](/contact/)
+This is my first GitHub Pages website.
